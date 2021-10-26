@@ -12,6 +12,12 @@ Comando/Sentencia | Concepto/Descripcion
 ```ls -l -h``` | Mostrar listado con detalles + el tamaño de una manera mas entendible
 ```alias``` | Ver listado de alias creados
 ```alias ls='ls -lh --color=auto'``` | Crear alias; es como una variable
+```cd``` | Moverse entre directorios (cd = change directory) 
+```cd .``` | Directorio actual
+```cd ..``` | Devolverse un directorio 
+```cd -``` | Devolverse al directorio inmediatamente anterior (a antes del ultimo cd que utilizamos)
+```cd ~``` | Ir a mi directorio de usuario (home)
+
 
 ## Editor VIM:
 Comando/Sentencia | Concepto/Descripcion
