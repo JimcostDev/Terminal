@@ -4,7 +4,7 @@ Notas de comandos basico para el manejo de una terminal linux
 
 Comando/Sentencia | Concepto/Descripcion
 --|--
-```bash pwd``` | ver donde estoy ubicado (arbol de directorios)
+```pwd``` | ver donde estoy ubicado (arbol de directorios)
 ```select * from cat``` | Visualizar el diccionario de datos del usuario con el que estoy conectado (catalogo)
 ```describe o desc name-table``` | visualizar estructura de la tabla
 ```set linesize 300``` | ancho cmd sql
@@ -28,3 +28,11 @@ Comando/Sentencia | Concepto/Descripcion
 ```LENGTH ``` | Retorna el tamano de una Cadena. Ej: ```select ename, length(ename) from emp;```
 ```SUBSTR ``` | Retorna una Subcadena. Ej: ```select ename, substr(ename, 1,3) from emp;```
 ```INSTR  ``` | Retorna la posicion del caracter dentro de la cadena. Ej: ```select ename, instr(ename,'A') from emp;```
+
+```bash 
+	pw
+```
+
+```shell 
+	cd directorio1
+```
