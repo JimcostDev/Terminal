@@ -1,6 +1,6 @@
 # Terminal
-Notas de comandos basico para el manejo de una terminal linux
-## SQL (COMMAND LINE):
+Notas de comandos basicos para el manejo de una terminal linux
+## (COMMAND LINE):
 
 Comando/Sentencia | Concepto/Descripcion
 --|--
