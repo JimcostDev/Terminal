@@ -26,7 +26,7 @@ Comando/Sentencia | Concepto/Descripcion
 ```$``` | Ir al final de la línea
 ```0``` | Ir al principio de la línea
 ```gg``` | Ir al inicio
-```gg``` | Ir al final
+```GG``` | Ir al final
 ```dd``` | Cortar, con ```p``` se pega
 ```yy``` | Copiar, con ```p``` se pega
 ```x``` | Quitar un caracter a la derecha; esto sin estar en el modo insert
