@@ -4,10 +4,14 @@ Notas de comandos basicos para el manejo de una terminal linux
 
 Comando/Sentencia | Concepto/Descripcion
 --|--
+```clear o Crtl + L``` | Limpiar pantalla de la terminal
 ```pwd``` | Ver en que directorio estoy ubicado (arbol de directorios)
 ```ls``` | Listar el contenido de un directorio
 ```ls --help``` | Ver opciones que me permite ```ls```
-```ls -l``` | Mostrar un listado (ver mas información del directorio o archivo). La primer letra identifica el tipo de archivo ```(d = directorio, l = enlace, - = archivo)```
+```ls -l``` | Mostrar un listado (ver mas información del directorio o archivo). La primer letra identifica el tipo de archivo ```(d = directorio, l = enlace, - = archivo)```, las demas letras ```(r, w, x)``` nos dice si el archivo tiene permiso de lectura (r), escritura (w) o ejecución (x)
+```ls -l -h``` | Mostrar listado con detalles + el tamaño de una manera mas entendible
+```alias``` | Ver listado de alias creados
+```alias ls='ls -lh --color=auto'``` | Crear alias; es como una variable
 
 ## Editor VIM:
 Comando/Sentencia | Concepto/Descripcion
