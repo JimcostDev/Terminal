@@ -20,8 +20,11 @@ Comando/Sentencia | Concepto/Descripcion
 ```cat``` | Ver el contenido de un archivo
 ```cat -n``` | Ver el contenido y me muestra el numero de lineas
 ```sudo (superuser do)``` | Convertirse en super administrador de manera temporal (root = usuario super administrador)
-```echo "hola_mundo > prueba.txt"``` | Crear un archivo de manera rapida
 ```sudo apt install nombre_app"``` | Instalar una aplicación (distribucion ubuntu, utliza el gestor de paquetes ```apt = Advanced Packaging Tool```
+```touch hola_mundo.py``` | Crear un archivo totalmente vacio
+```echo "hola" > prueba.txt``` | Crear un archivo con contenido, es este caso el archivo ```prueba.txt``` va a tener como contenido "hola"
+```echo "como estas" >> prueba.txt``` | Agregar información al archivo ```prueba.txt``` va a tener como contenido "hola como estas"
+```mkdir (make directory)``` | Crear un directorio; ```mkdir mi_directorio_1```
 
 ## Editor VIM:
 Comando/Sentencia | Concepto/Descripcion
