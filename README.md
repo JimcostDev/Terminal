@@ -34,6 +34,7 @@ Comando/Sentencia | Concepto/Descripcion
 ```mv (move)``` | Mover archivos o directorios. ```mv nombre.ext carpeta/``` o ```mv directorio1/ /c/programas/```
 ```find``` | Buscar archivos ```find . -name *.png``` = Buscar (find) en la carpeta actual (.) todos(*) los archivos que sean .png (-name)
 ```find -iname``` | Obviar en la busqueda minusculas y mayusculas. ```find . -iname "prueba.txt"``` = Busca todos los archivos que tengan el nombre "prueba.txt" sin tener en cuenta Mayusculas y minusculas
+```find -type d``` | Buscar solo directorios ```find . -type d -iname "directorio"``` 
 
 ## Editor VIM:
 Comando/Sentencia | Concepto/Descripcion
