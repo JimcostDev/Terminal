@@ -58,10 +58,3 @@ Comando/Sentencia | Concepto/Descripcion
 ```:%s/texto/texto_nuevo/g``` | Sustituir una palabra en todo el documento
 
 
-```bash 
-	pw
-```
-
-```shell 
-	cd directorio1
-```
