@@ -25,6 +25,7 @@ Comando/Sentencia | Concepto/Descripcion
 ```echo "hola" > prueba.txt``` | Crear un archivo con contenido, es este caso el archivo ```prueba.txt``` va a tener como contenido "hola"
 ```echo "como estas" >> prueba.txt``` | Agregar información al archivo ```prueba.txt``` va a tener como contenido "hola como estas"
 ```mkdir (make directory)``` | Crear un directorio; ```mkdir mi_directorio_1```
+```mkdir -p proyecto/java/images``` | Crear el directorio "proyecto", dentro de este "java" y dentro de java, "images"
 
 ## Editor VIM:
 Comando/Sentencia | Concepto/Descripcion
