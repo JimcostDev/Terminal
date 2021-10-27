@@ -32,7 +32,7 @@ Comando/Sentencia | Concepto/Descripcion
 ```rm -i ``` | Eliminar el archivo, pero antes pregunta si deseo de verdad eliminarlo. ```rm -i nombre.ext```
 ```rm -r ``` | Eliminar directorios de manera recursiva ```rm -r directorio1```
 ```mv (move)``` | Mover archivos o directorios. ```mv nombre.ext carpeta/``` o ```mv directorio1/ /c/programas/```
-```find``` | Buscar archivos ```find . -name *.png``` = Buscar (find) en la carpeta actual (.) todos(*) los archivos que sean .png(-name)
+```find``` | Buscar archivos ```find . -name *.png``` = Buscar (find) en la carpeta actual (.) todos(*) los archivos que sean .png (-name)
 
 ## Editor VIM:
 Comando/Sentencia | Concepto/Descripcion
