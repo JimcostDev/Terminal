@@ -17,7 +17,11 @@ Comando/Sentencia | Concepto/Descripcion
 ```cd ..``` | Devolverse un directorio 
 ```cd -``` | Devolverse al directorio inmediatamente anterior (a antes del ultimo cd que utilizamos)
 ```cd ~``` | Ir a mi directorio de usuario (home)
-
+```cat``` | Ver el contenido de un archivo
+```cat -n``` | Ver el contenido y me muestra el numero de lineas
+```sudo (superuser do)``` | Convertirse en super administrador de manera temporal (root = usuario super administrador)
+```echo "hola_mundo > prueba.txt"``` | Crear un archivo de manera rapida
+```sudo apt install nombre_app"``` | Instalar una aplicación (distribucion ubuntu, utliza el gestor de paquetes ```apt = Advanced Packaging Tool```
 
 ## Editor VIM:
 Comando/Sentencia | Concepto/Descripcion
