@@ -27,8 +27,7 @@ Comando/Sentencia | Concepto/Descripcion
 ```mkdir (make directory)``` | Crear un directorio; ```mkdir mi_directorio_1```
 ```mkdir -p proyecto/java/images``` | Crear el directorio "proyecto", dentro de este "java" y dentro de java, "images"
 ```cp (copy)``` | Copiar archivos ```cp origen destino``` = ```cp perfil.png ../../../proyecto/``` o ```cp index.html /c/workspace-jimcostdev/mi_directorio_1/proyecto/```
-
-```
+```cp -r``` | Copiar directorios (-r = recursivo) ```cp mi_directorio_1 mi_directorio_1_copia``` 
 
 ## Editor VIM:
 Comando/Sentencia | Concepto/Descripcion
