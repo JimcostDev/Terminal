@@ -37,6 +37,7 @@ Comando/Sentencia | Concepto/Descripcion | Simulacón
 ```find -type d``` | Buscar solo directorios ```find . -type d -iname "directorio"``` | 
 
 ## Editor VIM:
+> [Ver imagen](https://user-images.githubusercontent.com/53100460/201386777-dfeea4c0-4e03-445b-a569-2bacc102f6ba.PNG)
 Comando/Sentencia | Concepto/Descripcion
 --|--
 ```i``` | Modo  inserción (--INSERT--)
@@ -59,7 +60,7 @@ Comando/Sentencia | Concepto/Descripcion
 ```n y N``` | Una vez realizada la búsqueda, el comando ```n``` nos lleva a la siguiente aparición de la cadena buscada. El comando ```N``` nos llevará a la anterior
 ```:%s/texto/texto_nuevo/g``` | Sustituir una palabra en todo el documento
 
-![vim](https://user-images.githubusercontent.com/53100460/201386777-dfeea4c0-4e03-445b-a569-2bacc102f6ba.PNG)
+
 
 
 
