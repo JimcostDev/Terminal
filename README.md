@@ -19,8 +19,8 @@ Comando/Sentencia | Concepto/Descripcion | Simulacón
 ```cd ~``` | Ir a mi directorio de usuario (home) | 
 ```cat``` | Ver el contenido de un archivo | [Ver imagen](https://user-images.githubusercontent.com/53100460/201375670-dfef41b9-d8d5-4915-9340-137dabf2e739.PNG)
 ```cat -n``` | Ver el contenido y me muestra el numero de lineas | [Ver imagen](https://user-images.githubusercontent.com/53100460/201376317-a91a049e-5449-40b3-9b20-b40485f2a1ac.PNG)
-```sudo (superuser do)``` | Convertirse en super administrador de manera temporal (root = usuario super administrador) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
-```sudo apt install nombre_app"``` | Instalar una aplicación (distribucion ubuntu, utliza el gestor de paquetes ```apt = Advanced Packaging Tool``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```sudo (superuser do)``` | Convertirse en super administrador de manera temporal (root = usuario super administrador) | 
+```sudo apt install nombre_app"``` | Instalar una aplicación (distribucion ubuntu, utliza el gestor de paquetes ```apt = Advanced Packaging Tool``` | 
 ```touch hola_mundo.py``` | Crear un archivo totalmente vacio | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```echo "hola" > prueba.txt``` | Crear un archivo con contenido, es este caso el archivo ```prueba.txt``` va a tener como contenido "hola" | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```echo "como estas" >> prueba.txt``` | Agregar información al archivo ```prueba.txt``` va a tener como contenido "hola como estas" | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
