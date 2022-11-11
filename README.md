@@ -1,40 +1,40 @@
-# Terminal
+# Terminal/Shell 
 Notas de comandos básicos para el manejo de una terminal Linux.
 ## Lista de comandos:
 
-Comando/Sentencia | Concepto/Descripcion
---|--
-```clear o Crtl + L``` | Limpiar pantalla de la terminal
-```pwd``` | Ver en que directorio estoy ubicado (arbol de directorios)
-```ls``` | Listar el contenido de un directorio
-```ls --help``` | Ver opciones que me permite ```ls```
-```ls -l``` | Mostrar un listado (ver mas información del directorio o archivo). La primer letra identifica el tipo de archivo ```(d = directorio, l = enlace, - = archivo)```, las demas letras ```(r, w, x)``` nos dice si el archivo tiene permiso de lectura (r), escritura (w) o ejecución (x)
-```ls -l -h``` | Mostrar listado con detalles + el tamaño de una manera mas entendible
-```alias``` | Ver listado de alias creados
-```alias ls='ls -lh --color=auto'``` | Crear alias; es como una variable
-```cd``` | Moverse entre directorios (cd = change directory) 
-```cd .``` | Directorio actual
-```cd ..``` | Devolverse un directorio 
-```cd -``` | Devolverse al directorio inmediatamente anterior (a antes del ultimo cd que utilizamos)
-```cd ~``` | Ir a mi directorio de usuario (home)
-```cat``` | Ver el contenido de un archivo
-```cat -n``` | Ver el contenido y me muestra el numero de lineas
-```sudo (superuser do)``` | Convertirse en super administrador de manera temporal (root = usuario super administrador)
-```sudo apt install nombre_app"``` | Instalar una aplicación (distribucion ubuntu, utliza el gestor de paquetes ```apt = Advanced Packaging Tool```
-```touch hola_mundo.py``` | Crear un archivo totalmente vacio
-```echo "hola" > prueba.txt``` | Crear un archivo con contenido, es este caso el archivo ```prueba.txt``` va a tener como contenido "hola"
-```echo "como estas" >> prueba.txt``` | Agregar información al archivo ```prueba.txt``` va a tener como contenido "hola como estas"
-```mkdir (make directory)``` | Crear un directorio; ```mkdir mi_directorio_1```
-```mkdir -p proyecto/java/images``` | Crear el directorio "proyecto", dentro de este "java" y dentro de java, "images"
-```cp (copy)``` | Copiar archivos ```cp origen destino``` = ```cp perfil.png ../../../proyecto/``` o ```cp index.html /c/workspace-jimcostdev/mi_directorio_1/proyecto/```
-```cp -r``` | Copiar directorios (-r = recursivo) ```cp mi_directorio_1 mi_directorio_1_copia``` 
-```rm (remove)``` | Eliminar archivos. ```rm nombre.ext```
-```rm -i ``` | Eliminar el archivo, pero antes pregunta si deseo de verdad eliminarlo. ```rm -i nombre.ext```
-```rm -r ``` | Eliminar directorios de manera recursiva ```rm -r directorio1```
-```mv (move)``` | Mover archivos o directorios. ```mv nombre.ext carpeta/``` o ```mv directorio1/ /c/programas/```
-```find``` | Buscar archivos ```find . -name *.png``` = Buscar (find) en la carpeta actual (.) todos(*) los archivos que sean .png (-name)
-```find -iname``` | Obviar en la busqueda minusculas y mayusculas. ```find . -iname "prueba.txt"``` = Busca todos los archivos que tengan el nombre "prueba.txt" sin tener en cuenta Mayusculas y minusculas
-```find -type d``` | Buscar solo directorios ```find . -type d -iname "directorio"``` 
+Comando/Sentencia | Concepto/Descripcion | Simulacón
+--|--|--
+```clear o Crtl + L``` | Limpiar pantalla de la terminal | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```pwd``` | Ver en que directorio estoy ubicado (arbol de directorios) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```ls``` | Listar el contenido de un directorio | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```ls --help``` | Ver opciones que me permite ```ls``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```ls -l``` | Mostrar un listado (ver mas información del directorio o archivo). La primer letra identifica el tipo de archivo ```(d = directorio, l = enlace, - = archivo)```, las demas letras ```(r, w, x)``` nos dice si el archivo tiene permiso de lectura (r), escritura (w) o ejecución (x) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```ls -l -h``` | Mostrar listado con detalles + el tamaño de una manera mas entendible | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```alias``` | Ver listado de alias creados | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```alias ls='ls -lh --color=auto'``` | Crear alias; es como una variable | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```cd``` | Moverse entre directorios (cd = change directory) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```cd .``` | Directorio actual | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```cd ..``` | Devolverse un directorio  | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```cd -``` | Devolverse al directorio inmediatamente anterior (a antes del ultimo cd que utilizamos) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```cd ~``` | Ir a mi directorio de usuario (home) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```cat``` | Ver el contenido de un archivo | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```cat -n``` | Ver el contenido y me muestra el numero de lineas | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```sudo (superuser do)``` | Convertirse en super administrador de manera temporal (root = usuario super administrador) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```sudo apt install nombre_app"``` | Instalar una aplicación (distribucion ubuntu, utliza el gestor de paquetes ```apt = Advanced Packaging Tool``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```touch hola_mundo.py``` | Crear un archivo totalmente vacio | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```echo "hola" > prueba.txt``` | Crear un archivo con contenido, es este caso el archivo ```prueba.txt``` va a tener como contenido "hola" | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```echo "como estas" >> prueba.txt``` | Agregar información al archivo ```prueba.txt``` va a tener como contenido "hola como estas" | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```mkdir (make directory)``` | Crear un directorio; ```mkdir mi_directorio_1``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```mkdir -p proyecto/java/images``` | Crear el directorio "proyecto", dentro de este "java" y dentro de java, "images" | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```cp (copy)``` | Copiar archivos ```cp origen destino``` = ```cp perfil.png ../../../proyecto/``` o ```cp index.html /c/workspace- jimcostdev/mi_directorio_1/proyecto/``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```cp -r``` | Copiar directorios (-r = recursivo) ```cp mi_directorio_1 mi_directorio_1_copia``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```rm (remove)``` | Eliminar archivos. ```rm nombre.ext``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```rm -i ``` | Eliminar el archivo, pero antes pregunta si deseo de verdad eliminarlo. ```rm -i nombre.ext``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```rm -r ``` | Eliminar directorios de manera recursiva ```rm -r directorio1``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```mv (move)``` | Mover archivos o directorios. ```mv nombre.ext carpeta/``` o ```mv directorio1/ /c/programas/``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```find``` | Buscar archivos ```find . -name *.png``` = Buscar (find) en la carpeta actual (.) todos(*) los archivos que sean .png (-name) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```find -iname``` | Obviar en la busqueda minusculas y mayusculas. ```find . -iname "prueba.txt"``` = Busca todos los archivos que tengan el nombre "prueba.txt" sin tener en cuenta Mayusculas y minusculas | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```find -type d``` | Buscar solo directorios ```find . -type d -iname "directorio"``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 
 ## Editor VIM:
 Comando/Sentencia | Concepto/Descripcion
