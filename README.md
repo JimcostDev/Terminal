@@ -21,7 +21,7 @@ Comando/Sentencia | Concepto/Descripcion | Simulacón
 ```cat -n``` | Ver el contenido y me muestra el numero de lineas | [Ver imagen](https://user-images.githubusercontent.com/53100460/201376317-a91a049e-5449-40b3-9b20-b40485f2a1ac.PNG)
 ```sudo (superuser do)``` | Convertirse en super administrador de manera temporal (root = usuario super administrador) | 
 ```sudo apt install nombre_app"``` | Instalar una aplicación (distribucion ubuntu, utliza el gestor de paquetes ```apt = Advanced Packaging Tool``` | 
-```touch hola_mundo.py``` | Crear un archivo totalmente vacio | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```touch hola_mundo.py``` | Crear un archivo totalmente vacio | [Ver imagen](https://user-images.githubusercontent.com/53100460/201380239-091a3bb0-7ded-4b30-82f7-1270696a77ac.PNG)
 ```echo "hola" > prueba.txt``` | Crear un archivo con contenido, es este caso el archivo ```prueba.txt``` va a tener como contenido "hola" | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```echo "como estas" >> prueba.txt``` | Agregar información al archivo ```prueba.txt``` va a tener como contenido "hola como estas" | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```mkdir (make directory)``` | Crear un directorio; ```mkdir mi_directorio_1``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
