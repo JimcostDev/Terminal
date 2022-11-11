@@ -1,5 +1,5 @@
 # Terminal
-Notas de comandos basicos para el manejo de una terminal linux
+Notas de comandos básicos para el manejo de una terminal Linux.
 ## Lista de comandos:
 
 Comando/Sentencia | Concepto/Descripcion
