@@ -7,7 +7,7 @@ Comando/Sentencia | Concepto/Descripcion | Simulacón
 ```clear o Crtl + L``` | Limpiar pantalla de la terminal | [Ver imagen](https://user-images.githubusercontent.com/53100460/201367264-213d0ba9-e5a5-499d-9391-651aa8e733bf.PNG)
 ```pwd``` | Ver en que directorio estoy ubicado (arbol de directorios) | [Ver imagen](https://user-images.githubusercontent.com/53100460/201368146-d66c313a-4604-495e-9f37-b0a027066e17.PNG)
 ```ls``` | Listar el contenido de un directorio | [Ver imagen](https://user-images.githubusercontent.com/53100460/201369143-cd389462-b1b2-47bd-bc04-5a08d498e62b.PNG)
-```ls --help``` | Ver opciones que me permite ```ls``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```ls --help``` | Ver opciones que me permite ```ls``` | 
 ```ls -l``` | Mostrar un listado (ver mas información del directorio o archivo). La primer letra identifica el tipo de archivo ```(d = directorio, l = enlace, - = archivo)```, las demas letras ```(r, w, x)``` nos dice si el archivo tiene permiso de lectura (r), escritura (w) o ejecución (x) | [Ver imagen](https://user-images.githubusercontent.com/53100460/201370028-146e2e0a-f7ff-48ab-a01d-543229907970.PNG)
 ```ls -l -h``` | Mostrar listado con detalles + el tamaño de una manera mas entendible | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```alias``` | Ver listado de alias creados | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
