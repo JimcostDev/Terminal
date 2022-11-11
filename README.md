@@ -22,9 +22,9 @@ Comando/Sentencia | Concepto/Descripcion | Simulacón
 ```sudo (superuser do)``` | Convertirse en super administrador de manera temporal (root = usuario super administrador) | 
 ```sudo apt install nombre_app"``` | Instalar una aplicación (distribucion ubuntu, utliza el gestor de paquetes ```apt = Advanced Packaging Tool``` | 
 ```touch hola_mundo.py``` | Crear un archivo totalmente vacio | [Ver imagen](https://user-images.githubusercontent.com/53100460/201380239-091a3bb0-7ded-4b30-82f7-1270696a77ac.PNG)
-```echo "hola" > prueba.txt``` | Crear un archivo con contenido, es este caso el archivo ```prueba.txt``` va a tener como contenido "hola" | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
-```echo "como estas" >> prueba.txt``` | Agregar información al archivo ```prueba.txt``` va a tener como contenido "hola como estas" | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
-```mkdir (make directory)``` | Crear un directorio; ```mkdir mi_directorio_1``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```echo "hola" > prueba.txt``` | Crear un archivo con contenido, es este caso el archivo ```prueba.txt``` va a tener como contenido "hola" | 
+```echo "como estas" >> prueba.txt``` | Agregar información al archivo ```prueba.txt``` va a tener como contenido "hola como estas" | 
+```mkdir (make directory)``` | Crear un directorio; ```mkdir mi_directorio_1``` | [Ver imagen](https://user-images.githubusercontent.com/53100460/201381634-ddaa0945-0368-42c6-9674-1e5fd0407530.PNG)
 ```mkdir -p proyecto/java/images``` | Crear el directorio "proyecto", dentro de este "java" y dentro de java, "images" | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```cp (copy)``` | Copiar archivos ```cp origen destino``` = ```cp perfil.png ../../../proyecto/``` o ```cp index.html /c/workspace- jimcostdev/mi_directorio_1/proyecto/``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```cp -r``` | Copiar directorios (-r = recursivo) ```cp mi_directorio_1 mi_directorio_1_copia``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
