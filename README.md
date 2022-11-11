@@ -17,7 +17,7 @@ Comando/Sentencia | Concepto/Descripcion | Simulacón
 ```cd ..``` | Devolverse un directorio  | 
 ```cd -``` | Devolverse al directorio inmediatamente anterior (a antes del ultimo cd que utilizamos) | 
 ```cd ~``` | Ir a mi directorio de usuario (home) | 
-```cat``` | Ver el contenido de un archivo | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```cat``` | Ver el contenido de un archivo | [Ver imagen](https://user-images.githubusercontent.com/53100460/201375670-dfef41b9-d8d5-4915-9340-137dabf2e739.PNG)
 ```cat -n``` | Ver el contenido y me muestra el numero de lineas | [Ver imagen](https://user-images.githubusercontent.com/53100460/201375670-dfef41b9-d8d5-4915-9340-137dabf2e739.PNG)
 ```sudo (superuser do)``` | Convertirse en super administrador de manera temporal (root = usuario super administrador) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```sudo apt install nombre_app"``` | Instalar una aplicación (distribucion ubuntu, utliza el gestor de paquetes ```apt = Advanced Packaging Tool``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
