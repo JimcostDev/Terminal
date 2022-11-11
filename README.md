@@ -26,15 +26,15 @@ Comando/Sentencia | Concepto/Descripcion | Simulacón
 ```echo "como estas" >> prueba.txt``` | Agregar información al archivo ```prueba.txt``` va a tener como contenido "hola como estas" | 
 ```mkdir (make directory)``` | Crear un directorio; ```mkdir mi_directorio_1``` | [Ver imagen](https://user-images.githubusercontent.com/53100460/201381634-ddaa0945-0368-42c6-9674-1e5fd0407530.PNG)
 ```mkdir -p proyecto/java/images``` | Crear el directorio "proyecto", dentro de este "java" y dentro de java, "images" | [Ver imagen](https://user-images.githubusercontent.com/53100460/201382346-f51f2921-a19b-4123-8191-cb74fe298f4f.PNG)
-```cp (copy)``` | Copiar archivos ```cp origen destino``` = ```cp perfil.png ../../../proyecto/``` o ```cp index.html /c/workspace- jimcostdev/mi_directorio_1/proyecto/``` | 
-```cp -r``` | Copiar directorios (-r = recursivo) ```cp mi_directorio_1 mi_directorio_1_copia``` | [Ver imagen](https://user-images.githubusercontent.com/53100460/201383443-23214600-ce51-4752-8eda-ce08946dc8bb.png)
+```cp (copy)``` | Copiar archivos ```cp origen destino``` = ```cp perfil.png ../../../proyecto/``` o ```cp index.html /c/workspace- jimcostdev/mi_directorio_1/proyecto/``` | [Ver imagen](https://user-images.githubusercontent.com/53100460/201383443-23214600-ce51-4752-8eda-ce08946dc8bb.png)
+```cp -r``` | Copiar directorios (-r = recursivo) ```cp mi_directorio_1 mi_directorio_1_copia``` | 
 ```rm (remove)``` | Eliminar archivos. ```rm nombre.ext``` | [Ver imagen](https://user-images.githubusercontent.com/53100460/201380854-bb19ccbc-b28e-4a58-a1c9-d02f84928be7.PNG)
-```rm -i ``` | Eliminar el archivo, pero antes pregunta si deseo de verdad eliminarlo. ```rm -i nombre.ext``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
-```rm -r ``` | Eliminar directorios de manera recursiva ```rm -r directorio1``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
-```mv (move)``` | Mover archivos o directorios. ```mv nombre.ext carpeta/``` o ```mv directorio1/ /c/programas/``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
-```find``` | Buscar archivos ```find . -name *.png``` = Buscar (find) en la carpeta actual (.) todos(*) los archivos que sean .png (-name) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
-```find -iname``` | Obviar en la busqueda minusculas y mayusculas. ```find . -iname "prueba.txt"``` = Busca todos los archivos que tengan el nombre "prueba.txt" sin tener en cuenta Mayusculas y minusculas | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
-```find -type d``` | Buscar solo directorios ```find . -type d -iname "directorio"``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```rm -i ``` | Eliminar el archivo, pero antes pregunta si deseo de verdad eliminarlo. ```rm -i nombre.ext``` | 
+```rm -rf ``` | Eliminar directorios de manera recursiva(r) y forzada(f) ```rm -r directorio1``` | [Ver imagen](https://user-images.githubusercontent.com/53100460/201384611-ccbccf97-20c3-40ee-b699-71466b53c0ee.PNG)
+```mv (move)``` | Mover archivos o directorios. ```mv nombre.ext carpeta/``` o ```mv directorio1/ /c/programas/``` | 
+```find``` | Buscar archivos ```find . -name *.png``` = Buscar (find) en la carpeta actual (.) todos(*) los archivos que sean .png (-name) | [Ver imagen](https://user-images.githubusercontent.com/53100460/201385774-44de5b9c-90cf-40ad-8903-dfbc72d568e8.PNG)
+```find -iname``` | Obviar en la busqueda minusculas y mayusculas. ```find . -iname "prueba.txt"``` = Busca todos los archivos que tengan el nombre "prueba.txt" sin tener en cuenta Mayusculas y minusculas | 
+```find -type d``` | Buscar solo directorios ```find . -type d -iname "directorio"``` | 
 
 ## Editor VIM:
 Comando/Sentencia | Concepto/Descripcion
