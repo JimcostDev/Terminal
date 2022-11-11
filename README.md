@@ -11,7 +11,7 @@ Comando/Sentencia | Concepto/Descripcion | Simulacón
 ```ls -l``` | Mostrar un listado (ver mas información del directorio o archivo). La primer letra identifica el tipo de archivo ```(d = directorio, l = enlace, - = archivo)```, las demas letras ```(r, w, x)``` nos dice si el archivo tiene permiso de lectura (r), escritura (w) o ejecución (x) | [Ver imagen](https://user-images.githubusercontent.com/53100460/201370028-146e2e0a-f7ff-48ab-a01d-543229907970.PNG)
 ```ls -l -h``` | Mostrar listado con detalles + el tamaño de una manera mas entendible | [Ver imagen](https://user-images.githubusercontent.com/53100460/201371125-621720a2-8709-461d-be3b-6af3765d8da7.PNG)
 ```alias``` | Ver listado de alias creados | [Ver imagen](https://user-images.githubusercontent.com/53100460/201372484-1af91ee3-c32a-4f62-a7f8-0e952d9e96c0.PNG)
-```alias ls='ls -lh --color=auto'``` | Crear alias; es como una variable | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```alias ls='ls -lh --color=auto'``` | Crear alias; es como una variable | [Ver imagen](https://user-images.githubusercontent.com/53100460/201373797-cd345dd3-a2c7-4cd9-bba7-c07a7b33546a.PNG)
 ```cd``` | Moverse entre directorios (cd = change directory) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```cd .``` | Directorio actual | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```cd ..``` | Devolverse un directorio  | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
