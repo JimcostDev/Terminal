@@ -4,7 +4,7 @@ Notas de comandos básicos para el manejo de una terminal Linux.
 
 Comando/Sentencia | Concepto/Descripcion | Simulacón
 --|--|--
-```clear o Crtl + L``` | Limpiar pantalla de la terminal | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```clear o Crtl + L``` | Limpiar pantalla de la terminal | [Ver imagen](https://user-images.githubusercontent.com/53100460/201367264-213d0ba9-e5a5-499d-9391-651aa8e733bf.PNG)
 ```pwd``` | Ver en que directorio estoy ubicado (arbol de directorios) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```ls``` | Listar el contenido de un directorio | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```ls --help``` | Ver opciones que me permite ```ls``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
