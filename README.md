@@ -12,13 +12,13 @@ Comando/Sentencia | Concepto/Descripcion | Simulacón
 ```ls -l -h``` | Mostrar listado con detalles + el tamaño de una manera mas entendible | [Ver imagen](https://user-images.githubusercontent.com/53100460/201371125-621720a2-8709-461d-be3b-6af3765d8da7.PNG)
 ```alias``` | Ver listado de alias creados | [Ver imagen](https://user-images.githubusercontent.com/53100460/201372484-1af91ee3-c32a-4f62-a7f8-0e952d9e96c0.PNG)
 ```alias ls='ls -lh --color=auto'``` | Crear alias; es como una variable | [Ver imagen](https://user-images.githubusercontent.com/53100460/201373797-cd345dd3-a2c7-4cd9-bba7-c07a7b33546a.PNG)
-```cd``` | Moverse entre directorios (cd = change directory) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
-```cd .``` | Directorio actual | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
-```cd ..``` | Devolverse un directorio  | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
-```cd -``` | Devolverse al directorio inmediatamente anterior (a antes del ultimo cd que utilizamos) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
-```cd ~``` | Ir a mi directorio de usuario (home) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```cd``` | Moverse entre directorios (cd = change directory) | 
+```cd .``` | Directorio actual | 
+```cd ..``` | Devolverse un directorio  | 
+```cd -``` | Devolverse al directorio inmediatamente anterior (a antes del ultimo cd que utilizamos) | 
+```cd ~``` | Ir a mi directorio de usuario (home) | 
 ```cat``` | Ver el contenido de un archivo | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
-```cat -n``` | Ver el contenido y me muestra el numero de lineas | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```cat -n``` | Ver el contenido y me muestra el numero de lineas | [Ver imagen](https://user-images.githubusercontent.com/53100460/201375670-dfef41b9-d8d5-4915-9340-137dabf2e739.PNG)
 ```sudo (superuser do)``` | Convertirse en super administrador de manera temporal (root = usuario super administrador) | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```sudo apt install nombre_app"``` | Instalar una aplicación (distribucion ubuntu, utliza el gestor de paquetes ```apt = Advanced Packaging Tool``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```touch hola_mundo.py``` | Crear un archivo totalmente vacio | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
