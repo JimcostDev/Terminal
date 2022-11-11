@@ -28,7 +28,7 @@ Comando/Sentencia | Concepto/Descripcion | Simulacón
 ```mkdir -p proyecto/java/images``` | Crear el directorio "proyecto", dentro de este "java" y dentro de java, "images" | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```cp (copy)``` | Copiar archivos ```cp origen destino``` = ```cp perfil.png ../../../proyecto/``` o ```cp index.html /c/workspace- jimcostdev/mi_directorio_1/proyecto/``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```cp -r``` | Copiar directorios (-r = recursivo) ```cp mi_directorio_1 mi_directorio_1_copia``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
-```rm (remove)``` | Eliminar archivos. ```rm nombre.ext``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
+```rm (remove)``` | Eliminar archivos. ```rm nombre.ext``` | [Ver imagen](https://user-images.githubusercontent.com/53100460/201380854-bb19ccbc-b28e-4a58-a1c9-d02f84928be7.PNG)
 ```rm -i ``` | Eliminar el archivo, pero antes pregunta si deseo de verdad eliminarlo. ```rm -i nombre.ext``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```rm -r ``` | Eliminar directorios de manera recursiva ```rm -r directorio1``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
 ```mv (move)``` | Mover archivos o directorios. ```mv nombre.ext carpeta/``` o ```mv directorio1/ /c/programas/``` | [Ver imagen](https://www.jimcostdev.com/img/foto.jpeg)
