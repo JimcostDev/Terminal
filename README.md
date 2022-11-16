@@ -2,7 +2,7 @@
 Notas de comandos básicos para el manejo de una terminal Linux.
 ## Lista de comandos:
 
-Comando/Sentencia | Concepto/Descripcion | Simulacón
+Comando/Sentencia | Concepto/Descripción | Simulación
 --|--|--
 ```clear o Crtl + L``` | Limpiar pantalla de la terminal | [Ver imagen](https://user-images.githubusercontent.com/53100460/201367264-213d0ba9-e5a5-499d-9391-651aa8e733bf.PNG)
 ```pwd``` | Ver en que directorio estoy ubicado (arbol de directorios) | [Ver imagen](https://user-images.githubusercontent.com/53100460/201368146-d66c313a-4604-495e-9f37-b0a027066e17.PNG)
