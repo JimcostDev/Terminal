@@ -1,5 +1,15 @@
 # Terminal/Shell 
+---
+
+**Asignatura:** Sistemas operativos
+
+**Presentado por:** *Ronaldo Jimenéz Acosta*
+
+**Fecha:** 16 de noviembre de 2022
+
+--- 
 Notas de comandos básicos para el manejo de una terminal Linux.
+
 ## Lista de comandos:
 
 Comando/Sentencia | Concepto/Descripción | Simulación
