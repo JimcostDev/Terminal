@@ -46,9 +46,10 @@ Comando/Sentencia | Concepto/Descripción | Simulación
 ```find -iname``` | Obviar en la busqueda minusculas y mayusculas. ```find . -iname "prueba.txt"``` = Busca todos los archivos que tengan el nombre "prueba.txt" sin tener en cuenta Mayusculas y minusculas | 
 ```find -type d``` | Buscar solo directorios ```find . -type d -iname "directorio"``` | 
 
+
+
 ## Editor VIM:
 > [Ver imagen](https://user-images.githubusercontent.com/53100460/201386777-dfeea4c0-4e03-445b-a569-2bacc102f6ba.PNG)
-> 
 Comando/Sentencia | Concepto/Descripcion
 --|--
 ```i``` | Modo  inserción (--INSERT--)
