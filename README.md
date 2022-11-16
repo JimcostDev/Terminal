@@ -50,6 +50,8 @@ Comando/Sentencia | Concepto/Descripción | Simulación
 
 ## Editor VIM:
 > [Ver imagen](https://user-images.githubusercontent.com/53100460/201386777-dfeea4c0-4e03-445b-a569-2bacc102f6ba.PNG)
+
+
 Comando/Sentencia | Concepto/Descripcion
 --|--
 ```i``` | Modo  inserción (--INSERT--)
